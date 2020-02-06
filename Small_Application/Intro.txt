@@ -1,0 +1,2 @@
+In this folder you will find the tutorial of the Linux Scripting. I develope a small app in the linux Scripting and that file is provided in this 
+folder.
